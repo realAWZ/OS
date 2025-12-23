@@ -1,5 +1,1 @@
-/ (Main Folder)
-├── home.py           <-- This is your "Life OS" (Landing Page)
-├── requirements.txt  <-- Same as before (streamlit, pandas, requests)
-└── pages/            <-- NEW FOLDER
-    └── war_room.py   <-- This is the "Parlay Prophet"
+pages/
